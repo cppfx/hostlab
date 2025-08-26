@@ -1,0 +1,5 @@
+echo "[[[Start Building]]]" ;
+
+path-constant prj_root : . ;
+
+build-project hostlab ;

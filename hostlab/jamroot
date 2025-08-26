@@ -1,0 +1,3 @@
+echo "Build hostlab ..." ;
+
+build-project v101 ;
