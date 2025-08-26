@@ -1,0 +1,13 @@
+echo "Build hostlab/v101/v101 ..." ;
+
+project
+:
+	default-build
+		<cxxstd>26
+;
+
+exe
+	eghost
+:
+	main.cpp
+;
